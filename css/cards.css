@@ -1,0 +1,13 @@
+.cards_item{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cards_img{
+    width: 200px;
+    height: 250px;
+}
+.card{
+    width: 250px;
+    height: auto;
+}
